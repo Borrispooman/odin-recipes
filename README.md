@@ -1,1 +1,1 @@
-"0din-recipes will be my first project I create on my web development journey, once I have completed it, i will have demonstrated a conherency with HTML basics."
+"After developing this recipes website, I am aiming to have demonstrated/developed a fluency in the HTML basics!"
