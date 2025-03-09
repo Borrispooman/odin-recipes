@@ -1,1 +1,1 @@
-# odin-recipes
+Odin-recipes will be my first project I create on my web development journey, once I have completed it, i will have demonstrated a conherency with HTML basic :).
